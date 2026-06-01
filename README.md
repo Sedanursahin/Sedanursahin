@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sedanur Şahin
 
-<!--
-**Sedanursahin/Sedanursahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hakkımda
+Elektrik-Elektronik Mühendisliği ve Bilgisayar Programcılığı alanlarında eğitimime devam ediyorum. Yazılım geliştirme süreçlerinde farklı disiplinleri deneyimleyerek kendimi geliştirmeye odaklanıyorum.
 
-Here are some ideas to get you started:
+Özellikle mobil uygulama geliştirme alanında derinleşirken, aynı zamanda web teknolojileri ve gömülü sistemler üzerine de çalışmalar yürütüyorum. Farklı alanların kesişiminde üretmeyi ve gerçek problemlere çözüm geliştirmeyi önemsiyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Teknolojiler
+- Flutter, Dart  
+- Angular, TypeScript, JavaScript  
+- HTML, CSS  
+- Python, C++, C#  
+- MSSQL  
+
+## Projeler
+- Mobil uygulama geliştirme projeleri  
+- Web tabanlı arayüz geliştirme çalışmaları  
+- Gömülü sistemler ve haberleşme yazılımları  
+
+## Deneyim
+- Yazılım geliştirme ekiplerinde aktif görev alma  
+- Farklı projelerde frontend ve sistem geliştirme süreçlerine katkı  
+
+## İletişim
+- E-posta: sdnr.shn06@gmail.com  
+- LinkedIn: https://linkedin.com/in/sedanur-şahin  
+- GitHub: https://github.com/Sedanursahin  
