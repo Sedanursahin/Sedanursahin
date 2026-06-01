@@ -3,7 +3,7 @@
 ## Hakkımda
 Elektrik-Elektronik Mühendisliği ve Bilgisayar Programcılığı alanlarında eğitimime devam ediyorum. Yazılım geliştirme süreçlerinde farklı disiplinleri deneyimleyerek kendimi geliştirmeye odaklanıyorum.
 
-Özellikle mobil uygulama geliştirme alanında derinleşirken, aynı zamanda web teknolojileri ve gömülü sistemler üzerine de çalışmalar yürütüyorum. Farklı alanların kesişiminde üretmeyi ve gerçek problemlere çözüm geliştirmeyi önemsiyorum.
+Son zamanlarda özellikle mobil uygulama geliştirme alanında derinleşirken, aynı zamanda web teknolojileri ve gömülü sistemler üzerine de çalışmalar yürütüyorum. Farklı alanların kesişiminde üretmeyi ve gerçek problemlere çözüm geliştirmeyi önemsiyorum.
 
 ## Teknolojiler
 - Flutter, Dart  
